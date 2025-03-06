@@ -3,7 +3,7 @@ module github.com/telekom-mms/p11support
 go 1.18
 
 require (
-	github.com/ThalesIgnite/crypto11 v1.2.5
+	github.com/ThalesIgnite/crypto11 v1.4.1
 	github.com/miekg/pkcs11 v1.1.1
 )
 
