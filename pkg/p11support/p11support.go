@@ -18,7 +18,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ThalesIgnite/crypto11"
+	"github.com/ThalesGroup/crypto11"
 	"github.com/miekg/pkcs11"
 
 	"github.com/telekom-mms/p11support/pkg/pkcs11uri"
